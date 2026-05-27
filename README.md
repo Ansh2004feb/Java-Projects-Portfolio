@@ -1,2 +1,2 @@
 # Java-Projects-Portfolio
-Java projects including Employee Management System, Library Management System, and Student Grade Calculator
+Java projects including Employee Management System, AI riddle game, and Student Grade Calculator
